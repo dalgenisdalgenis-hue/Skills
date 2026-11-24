@@ -21,16 +21,17 @@ Al iniciar, identifica el modo por la intención del usuario. Si no está claro,
 
 | Modo | Cuándo usarlo |
 |---|---|
-| **A. Investigación** | "investiga", "busca fuentes", "estado del arte" |
+| **A. Investigación** | "investiga", "busca fuentes", "estado del arte"; versión rápida; "verifica estos datos" |
 | **B. Revisión de literatura** | narrativa, sistemática (tipo PRISMA) o de alcance |
 | **C. Socrático** | el usuario aún no tiene clara su pregunta o su tesis |
 | **D. Planificación** | esquema, pregunta de investigación, estructura IMRyD |
 | **E. Redacción** | borrador completo o por secciones |
 | **F. Humanización** | "humaniza", "que suene natural", "suena a IA", "muy robótico", "mejora el estilo" |
-| **G. Revisión por pares** | "revisa mi artículo", "qué diría un evaluador" |
-| **H. Citas** | verificar, formatear o convertir referencias |
+| **G. Revisión por pares** | "revisa mi artículo", "qué diría un evaluador"; revisión rápida, solo de metodología o segunda revisión |
+| **H. Citas, APA 7 e integridad** | verificar, formatear o convertir referencias; "revisa el APA"; controles de integridad antes de entregar |
 | **I. Flujo completo** | del tema a la entrega, por etapas |
 | **J. Metodología** | enfoque, planteamiento, preguntas, objetivos, alcance, hipótesis, variables, diseño, población y muestra, instrumentos, análisis, matriz de consistencia |
+| **K. Respuesta a revisores** | "me llegaron los comentarios", "carta de respuesta", observaciones del asesor o del jurado |
 
 ## 2. Modo A — Investigación
 
@@ -39,6 +40,10 @@ Al iniciar, identifica el modo por la intención del usuario. Si no está claro,
 3. Para cada fuente registra: autor, año, título, revista, DOI o URL, hallazgo principal, método y limitaciones.
 4. Sintetiza por temas, consensos, debates y vacíos, no fuente por fuente.
 5. Entrega una **tabla de fuentes** + síntesis + vacíos detectados.
+
+**Versión rápida** (cuando el usuario quiere una orientación, no una revisión completa): de 5 a 8 fuentes clave, un resumen de una página con los consensos y los debates principales, y una lista de lecturas por las que empezar. Indica que no es exhaustiva.
+
+**Verificación de hechos** (para afirmaciones, datos o cifras concretas): para cada afirmación, indica su estado (confirmada / parcialmente confirmada / sin evidencia encontrada / contradicha), la fuente localizada y una nota breve. No des nada por confirmado sin haber localizado la fuente, y prioriza las fuentes oficiales y primarias.
 
 ## 3. Modo B — Revisión de literatura
 
@@ -165,27 +170,138 @@ Cada observación cita el pasaje concreto, explica el problema y propone una sol
 
 **Contra la complacencia:** no suavices críticas válidas. Si el usuario rebate una observación, evalúa el argumento con honestidad y cede solo si de verdad lo resuelve.
 
-## 9. Modo H — Citas y referencias
+**Gravedad:** marca cada observación como crítica (invalida o compromete la conclusión), mayor (requiere cambios importantes) o menor (mejora la claridad o el formato).
 
-- **Nunca inventes autores, títulos, años, páginas, DOI ni datos.** Si no puedes verificar algo, márcalo como [VERIFICAR].
+**Modalidades:**
+- **Completa:** los cinco roles.
+- **Rápida:** una página con las fortalezas, los 3 a 5 problemas principales y un veredicto.
+- **Solo metodología:** el rol metodológico a fondo, con J.12 y J.14.
+- **Segunda revisión:** compara la versión nueva con las observaciones anteriores y con la carta de respuesta. Clasifica cada observación como resuelta, parcialmente resuelta o no resuelta, y añade los problemas nuevos que hayan surgido con los cambios.
+- **Revista o jurado concreto:** si el usuario indica la revista o el tipo de jurado, ajusta los criterios a su alcance, sus normas para autores, la extensión y el nivel de exigencia.
+
+## 9. Modo H — Citas, APA 7 e integridad
+
+### H.1 Verificación de citas
+
+- **Nunca inventes autores, títulos, años, páginas, DOI ni datos.** Si no puedes verificar algo, márcalo como [VERIFICAR]; si falta un dato en una referencia, márcalo como [FALTA DATO: año / páginas / DOI…].
 - **Verificación en dos niveles:**
   1. *Existencia:* la fuente existe (búscala por DOI o título).
   2. *Correspondencia:* la fuente dice realmente lo que el texto le atribuye.
 - Entrega una tabla con cada cita y su estado (verificada / no encontrada / no respalda la afirmación / pendiente).
 - Formatea y convierte entre APA 7, MLA, Chicago, IEEE y Vancouver. Comprueba que todas las citas del texto estén en la bibliografía, y viceversa.
 
+### H.2 Revisor de formato APA 7
+
+Úsalo cuando el usuario pida "revisa el APA", "corrige las referencias" o "formato APA". **Las normas de la institución o de la revista prevalecen sobre APA** (por ejemplo, muchas universidades exigen texto justificado o portada propia): pregunta si existe un reglamento y, si lo hay, síguelo.
+
+**Convenciones en español:** "y" entre autores (en inglés, "&" entre paréntesis y en la lista de referencias, y "and" en las citas narrativas); "s.f." para obras sin fecha; "como se citó en"; "Ed." / "Eds."; "2.ª ed."; "p." / "pp."; "párr.". Si la institución usa "&" también en español, respeta esa norma y sé consistente.
+
+**Citas en el texto:**
+- **Un autor:** (García, 2020) o García (2020).
+- **Dos autores:** siempre ambos, (García y López, 2020).
+- **Tres o más autores:** primer autor y "et al." **desde la primera cita**: (García et al., 2020).
+- **Varias obras en un mismo paréntesis:** en orden alfabético, separadas por punto y coma: (López, 2019; Pérez, 2021).
+- **Mismo autor, varios años:** (García, 2018, 2020).
+- **Mismo autor y año:** 2020a, 2020b, asignados según el orden alfabético de los títulos en la lista de referencias.
+- **Autor institucional con sigla:** en la primera cita, (Organización Mundial de la Salud [OMS], 2020); después, (OMS, 2020). En una cita narrativa: Organización Mundial de la Salud (OMS, 2020).
+- **Cita textual:** siempre con página, (García, 2020, p. 45) o pp. 45-46. Si no hay paginación, usa párr. 3 o el nombre de la sección.
+  - Menos de 40 palabras: entre comillas, dentro del párrafo.
+  - 40 palabras o más: cita en bloque, sin comillas, con sangría de 1,27 cm en todo el bloque y la referencia después del punto final.
+- **Cita secundaria:** (Piaget, 1950, como se citó en Pérez, 2019). En la lista de referencias solo va Pérez. Úsala con moderación.
+- **Comunicación personal:** solo en el texto, (J. Pérez, comunicación personal, 3 de mayo de 2025). No va en la lista de referencias.
+- **Paráfrasis:** la página es opcional pero recomendable si el pasaje es específico.
+
+**Lista de referencias:**
+- Título "Referencias" centrado y en negrita, en página aparte. Orden alfabético por apellido, sin numerar, con sangría francesa de 1,27 cm e interlineado doble.
+- Mismo autor: primero las obras de autor único, en orden cronológico; las obras "s.f." van antes de las fechadas.
+- Hasta 20 autores se escriben todos; con 21 o más, los 19 primeros, puntos suspensivos y el último.
+- Títulos de artículos, libros y capítulos con mayúscula solo en la primera palabra y en los nombres propios. Nombres de revistas con mayúscula en las palabras principales.
+- DOI en formato https://doi.org/xxxx, sin "Recuperado de" y sin punto final después del DOI o la URL.
+- "Recuperado el [fecha] de [URL]" solo si el contenido cambia con el tiempo y no está archivado.
+- APA 7 ya no incluye la ciudad de la editorial.
+
+**Plantillas:**
+- **Artículo:** Apellido, A. A., y Apellido, B. B. (2020). Título del artículo. *Nombre de la Revista*, *12*(3), 45–67. https://doi.org/xxxx (el volumen va en cursiva; el número, no).
+- **Libro:** Apellido, A. A. (2018). *Título del libro* (2.ª ed.). Editorial. https://doi.org/xxxx (si tiene DOI).
+- **Capítulo de libro editado:** Apellido, A. A. (2019). Título del capítulo. En B. B. Apellido (Ed.), *Título del libro* (pp. 10–25). Editorial.
+- **Tesis:** Apellido, A. A. (2021). *Título de la tesis* [Tesis de maestría, Nombre de la Universidad]. Nombre del repositorio. URL
+- **Página web:** Autor u Organización. (2023, 5 de marzo). *Título de la página*. Nombre del sitio. URL (si el autor y el sitio coinciden, omite el sitio).
+- **Ley o norma:** sigue la forma oficial del país y, si existe, la guía de la institución.
+
+**Formato del documento** (trabajo de estudiante; el reglamento institucional manda):
+- **Fuente:** Times New Roman 12, Calibri 11, Arial 11, Georgia 11 o Lucida Sans Unicode 10. Interlineado doble, márgenes de 2,54 cm, sangría de primera línea de 1,27 cm, número de página arriba a la derecha.
+- **Alineación:** a la izquierda, salvo que la institución pida texto justificado.
+- **Portada de estudiante:** título (centrado, en negrita), autor, institución y facultad, curso, docente y fecha.
+- **Encabezados:**
+  - Nivel 1: centrado, en negrita.
+  - Nivel 2: a la izquierda, en negrita.
+  - Nivel 3: a la izquierda, en negrita y cursiva.
+  - Nivel 4: con sangría, en negrita, termina en punto y el texto sigue en la misma línea.
+  - Nivel 5: como el 4, pero en negrita y cursiva.
+  - En los niveles 1 a 3, APA en inglés pone en mayúscula las palabras principales. Muchas adaptaciones al español usan mayúscula solo en la primera palabra: sigue la norma de la institución y sé consistente.
+- **Tablas y figuras:**
+  - **Encima:** el número en negrita (**Tabla 1**, **Figura 1**) y, en la línea siguiente, el título en cursiva con mayúsculas en las palabras principales.
+  - **Debajo:** la nota, que empieza con *Nota.* en cursiva.
+  - Las tablas no llevan líneas verticales.
+  - Cada tabla y cada figura se cita en el texto antes de aparecer y se numera en orden.
+- **Números:** en palabras del cero al nueve y en cifras del 10 en adelante. Siempre en cifras las estadísticas, las medidas, las edades, los porcentajes y las fechas.
+- **Estadísticos:** los símbolos estadísticos van en cursiva (*M*, *DE*, *t*, *F*, *p*, *r*, *n*).
+- **El valor p:**
+  - Con dos o tres decimales: *p* = .032.
+  - Si es muy pequeño, se escribe *p* < .001; nunca *p* = .000.
+  - No lleva cero inicial, porque no puede superar 1.
+
+**Cómo revisar:**
+1. Extrae todas las citas del texto y todas las referencias.
+2. Cruza ambas listas: citas sin referencia y referencias sin cita.
+3. Revisa cada cita y cada referencia según su tipo.
+4. Revisa la portada, los encabezados, las tablas, las figuras y el formato general.
+5. Entrega:
+   - Una **tabla de errores** con ubicación, texto actual, corrección y regla aplicada.
+   - La **lista de referencias corregida**.
+   - Los **pendientes que el autor debe completar** ([FALTA DATO]).
+
+Si el documento es editable (DOCX o un doc), aplica las correcciones en el propio archivo; si no, entrega el texto corregido.
+
+### H.3 Controles de integridad (antes de entregar o enviar)
+
+Revisa y entrega un informe con semáforo (🟢 correcto / 🟡 revisar / 🔴 problema):
+1. **Citas:** existencia y correspondencia (H.1).
+2. **Método frente a resultados:**
+   - Cada análisis de los resultados se anunció en el método, y viceversa.
+   - El tamaño de muestra coincide en el resumen, el método, las tablas y el texto.
+3. **Coherencia numérica:**
+   - Los totales y los porcentajes suman correctamente.
+   - Los grados de libertad son coherentes con el *n*.
+   - El valor *p* es compatible con el estadístico reportado (recalcúlalo si los datos lo permiten).
+   - Los decimales son consistentes.
+4. **Tablas y figuras:** coinciden con el texto, están numeradas en orden y están citadas.
+5. **Alcance de las conclusiones:** no van más allá de los datos ni del alcance declarado (por ejemplo, no hay causalidad en un estudio correlacional ni generalizaciones a partir de una muestra no probabilística).
+6. **Guía de reporte:** cumple la que corresponde al diseño (J.14).
+7. **Originalidad:** las paráfrasis son suficientemente distintas del original y no hay fragmentos sin citar. Recomienda pasar el texto por el detector de similitud de la institución.
+8. **Transparencia:** declaración de uso de IA, conflictos de interés, financiación y aprobación ética, si corresponden.
+
+**Límite:** estos controles no pueden comprobar que los datos sean auténticos ni que los procedimientos se hayan realizado. Dilo explícitamente en el informe.
+
 ## 10. Modo I — Flujo completo por etapas
 
-Avanza etapa por etapa y **pide confirmación al terminar cada una**:
+Avanza etapa por etapa y **pide confirmación al terminar cada una**.
+
+**Puntos de entrada.** Al inicio, pregunta en qué punto está el usuario:
+- **Desde cero:** etapa 1.
+- **Ya tiene el planteamiento o el proyecto:** revísalo con J.14 y continúa en la etapa 3.
+- **Ya tiene el borrador:** etapas 5, 6 y 7.
+- **Recibió observaciones de revisores o del jurado:** modo K, luego H.3 y luego una segunda revisión con el modo G.
+
 
 1. Delimitación del tema y de la pregunta (modo C si hace falta)
 2. Búsqueda y síntesis de fuentes (A / B)
 3. Diseño metodológico (J) y esquema (D) → confirmación
 4. Redacción por secciones (E)
 5. Humanización y calibración de estilo (F)
-6. Verificación de citas (H) — **control obligatorio**
+6. Verificación de citas, formato APA 7 y controles de integridad (H) — **control obligatorio**
 7. Revisión por pares simulada (G)
-8. Correcciones
+8. Correcciones (con el modo K si hay observaciones de revisores o del jurado)
 9. Abstract bilingüe y palabras clave
 10. Entrega final + declaración de uso de IA (si el usuario la necesita)
 
@@ -530,14 +646,57 @@ Cada pregunta específica debe tener su objetivo específico, su hipótesis espe
 
 Referencias conceptuales: Hernández-Sampieri, R. y Mendoza, C. P. (2018). *Metodología de la investigación: Las rutas cuantitativa, cualitativa y mixta*. McGraw-Hill (referencia principal); y Hernández Sampieri, R., Fernández Collado, C. y Baptista Lucio, P. (1991). *Metodología de la investigación*. McGraw-Hill. El contenido de esta sección es una síntesis original y no reproduce el texto de las obras.
 
-## 12. Integridad académica
+## 12. Modo K — Respuesta a revisores y a observaciones del jurado
+
+Úsalo cuando el usuario reciba comentarios de revisores de una revista o las observaciones de un asesor, un jurado o un comité de tesis.
+
+**1. Organizar los comentarios.**
+- Numera cada comentario (R1.1, R1.2, R2.1… o J1.1 para el jurado). Si un comentario contiene varias peticiones, sepáralas.
+- Clasifica cada uno:
+  - **Tipo:** teórico, metodológico, de análisis, de interpretación, de redacción o de formato.
+  - **Gravedad:** mayor o menor.
+  - **Acción propuesta:** aceptar y cambiar, aceptar en parte, rebatir con argumentos o pedir aclaración al editor o al jurado.
+- Señala los comentarios de distintos revisores que se contradicen y propone cómo resolverlos.
+
+**2. Plan de revisión (hoja de ruta).**
+- Ordena el trabajo empezando por los cambios mayores que afectan a otras secciones (por ejemplo, un análisis nuevo cambia los resultados, la discusión y el resumen).
+- Distingue lo que Claude puede hacer (redacción, reestructuración, formato) de lo que requiere al autor: datos, análisis nuevos o decisiones teóricas. Márcalos como [PENDIENTE DEL AUTOR].
+- Pide confirmación del plan antes de modificar el manuscrito.
+
+**3. Matriz de trazabilidad.**
+
+| N.º | Comentario (resumen) | Acción | Respuesta | Cambio realizado | Ubicación (sección, página o línea) | Estado |
+|---|---|---|---|---|---|---|
+
+**4. Carta de respuesta**, en el idioma de la revista o de la institución:
+- Agradecimiento breve y sin servilismo al inicio.
+- Para cada comentario:
+  1. El comentario del revisor, textual y en cursiva.
+  2. La respuesta.
+  3. El cambio realizado, con su ubicación y el texto nuevo citado.
+- Los desacuerdos se argumentan con evidencia (literatura, datos, restricciones del diseño) y con tono respetuoso.
+- Fórmulas útiles:
+  - ES: "Agradecemos esta observación. En consecuencia, hemos…"; "Entendemos la preocupación del revisor; sin embargo, …"
+  - EN: "We thank the reviewer for this comment. Accordingly, we have…"; "We respectfully disagree, because…"
+
+**5. Auditoría de la respuesta** (antes de enviar):
+- Cada comentario tiene respuesta.
+- Cada cambio prometido está realmente en el manuscrito y en la ubicación indicada.
+- Las respuestas a distintos revisores no se contradicen.
+- No se prometen análisis ni datos que no existen.
+- El tono es profesional en toda la carta.
+- Después, aplica H.3 al manuscrito revisado y, si el usuario quiere, una segunda revisión con el modo G.
+
+**Reglas:** nunca inventes resultados ni análisis para satisfacer a un revisor, y no afirmes que se hizo un cambio que no está en el texto.
+
+## 13. Integridad académica
 
 - La skill ayuda a pensar, investigar y escribir mejor; no a ocultar el uso de IA ni a fabricar resultados.
 - No inventes datos, resultados de experimentos, entrevistas ni fuentes.
 - Recuerda una sola vez, sin sermonear, que el usuario debe revisar las normas de su institución o revista sobre el uso de IA y comprender y poder defender todo lo que entrega.
 - Si se pide, redacta una **declaración de uso de IA** honesta, en español o en inglés, que indique en qué tareas se usó.
 
-## 13. Formato de entrega
+## 14. Formato de entrega
 
 - Textos largos (más de ~1.500 palabras): como documento, no solo en el chat.
 - Marcadores visibles: [CITA NECESARIA], [VERIFICAR], [DATO DEL AUTOR].

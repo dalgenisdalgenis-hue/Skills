@@ -8,16 +8,17 @@ Skill para Claude que acompaña todo el ciclo de un trabajo académico en **espa
 
 | Modo | Para qué sirve |
 |---|---|
-| Investigación | Buscar y sintetizar fuentes con palabras clave en ES y EN |
+| Investigación | Buscar y sintetizar fuentes con palabras clave en ES y EN; versión rápida y verificación de datos |
 | Revisión de literatura | Narrativa, sistemática (tipo PRISMA) o de alcance |
 | Socrático | Afinar la pregunta o la tesis mediante preguntas |
 | Planificación | Objetivos, hipótesis y esquema (IMRyD, ensayo, tesis) |
 | Redacción | Borradores por secciones con citas marcadas |
 | **Humanización** | Calibración de tu estilo + control de patrones típicos de IA |
-| Revisión por pares | Comité simulado con abogado del diablo |
-| Citas | Verificar existencia y correspondencia; APA, MLA, Chicago, IEEE, Vancouver |
-| Flujo completo | 10 etapas con confirmación del autor en cada una |
+| Revisión por pares | Comité simulado con abogado del diablo; modos rápida, solo metodología y segunda revisión |
+| Citas, APA 7 e integridad | Verificar las citas, revisar el formato APA 7 regla por regla (con las convenciones en español) y aplicar controles de integridad antes de entregar |
+| Flujo completo | 10 etapas con confirmación del autor en cada una; se puede empezar con un borrador o con observaciones ya recibidas |
 | **Metodología** | Enfoques o rutas (cuanti, cuali, mixta), planteamiento, preguntas, objetivos, alcance, hipótesis, variables y su operacionalización, diseños, población y muestra (con cálculo), instrumentos, análisis estadístico y cualitativo, y matriz de consistencia |
+| **Respuesta a revisores** | Plan de revisión, matriz de trazabilidad y carta de respuesta punto por punto para revistas o para el jurado de tesis |
 
 ## Humanización
 
