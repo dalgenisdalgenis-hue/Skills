@@ -21,7 +21,7 @@ Skill para Claude que acompaña todo el ciclo de un trabajo académico en **espa
 ## Humanización
 
 - **Calibración de estilo:** comparte textos tuyos y la skill aprende tu voz (ritmo, persona gramatical, conectores, nivel de cautela).
-- **Control de calidad de escritura:** elimina muletillas en español ("cabe destacar que", "juega un papel crucial"…) y en inglés ("delve into", "it is important to note"…), además de patrones estructurales repetitivos.
+- **Método de 8 pasadas:** estructura de plantilla, lenguaje inflado, vocabulario típico de IA, patrones gramaticales, ritmo y puntuación, relleno y artefactos de chatbot, conectores repetidos y textura humana. Con ejemplos en español e inglés.
 
 El objetivo es la calidad y la voz propia, no ocultar el uso de IA.
 
@@ -53,4 +53,4 @@ No inventa fuentes, datos ni resultados. Revisa las normas de tu institución o 
 
 ## Créditos
 
-Inspirada en la estructura de [Academic Research Skills](https://github.com/imbad0202/academic-research-skills) (imbad0202). El texto de esta skill es original.
+Inspirada en la estructura de [Academic Research Skills](https://github.com/imbad0202/academic-research-skills) (imbad0202). El método de humanización está adaptado de [humanize-writing](https://github.com/jpeggdev/humanize-writing) (jpeggdev, MIT). El resto del texto es original.

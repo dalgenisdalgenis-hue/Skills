@@ -26,7 +26,7 @@ Al iniciar, identifica el modo por la intención del usuario. Si no está claro,
 | **C. Socrático** | el usuario aún no tiene clara su pregunta o su tesis |
 | **D. Planificación** | esquema, pregunta de investigación, estructura IMRyD |
 | **E. Redacción** | borrador completo o por secciones |
-| **F. Humanización** | "humaniza", "que suene natural", "mejora el estilo" |
+| **F. Humanización** | "humaniza", "que suene natural", "suena a IA", "muy robótico", "mejora el estilo" |
 | **G. Revisión por pares** | "revisa mi artículo", "qué diría un evaluador" |
 | **H. Citas** | verificar, formatear o convertir referencias |
 | **I. Flujo completo** | del tema a la entrega, por etapas |
@@ -87,22 +87,63 @@ Muestra el perfil en 5-7 líneas, pídele al usuario que lo confirme y úsalo en
 - **Una idea por párrafo**, con apoyo concreto.
 - **Conclusiones que aporten** (implicaciones, límites, líneas futuras) en vez de repetir la introducción.
 
-### 7.3 Control de calidad de escritura (patrones a eliminar)
+### 7.3 Control de calidad de escritura: método de 8 pasadas
 
-**Español:** "En el mundo actual", "En la era digital", "Cabe destacar que", "Es importante mencionar que", "juega un papel crucial", "un aspecto fundamental", "en este sentido" repetido, "En conclusión, podemos decir que", "sin lugar a dudas", "en un mundo cada vez más".
+Aplica las pasadas en orden. En textos cortos pueden hacerse mentalmente; en textos largos, revisa sección por sección. Ejemplos en español (ES) e inglés (EN).
 
-**Inglés:** "delve into", "in today's fast-paced world", "it is important to note that", "plays a crucial role", "a testament to", "navigate the complexities", "tapestry", "multifaceted", "pivotal", "underscore", "in the realm of", "Furthermore/Moreover" en cadena.
+**Pasada 1. Estructura de plantilla**
+- Introducciones que anuncian lo obvio ("En este ensayo se abordará…" / "This essay will explore…").
+- Todas las secciones con la misma forma: afirmación → tres apoyos → mini-conclusión.
+- Cierres de párrafo con moraleja ordenada ("Así, queda claro que…" / "Ultimately, this shows…").
+- Conclusiones que repiten la introducción en lugar de aportar implicaciones o límites.
+- Abuso de listas y negritas donde corresponde prosa argumentativa.
 
-**Patrones estructurales (ambos idiomas):**
-- Tríadas automáticas de adjetivos o sustantivos.
-- Párrafos de longitud y forma idénticas.
-- Adjetivos inflados sin justificación (crucial, vital, fascinante, sin precedentes).
-- Abuso de listas en lugar de prosa argumentativa.
-- Nominalizaciones encadenadas y exceso de voz pasiva.
-- Preguntas retóricas en serie y cierres grandilocuentes.
-- Frases del tipo "No es solo X, sino también Y" repetidas.
+**Pasada 2. Lenguaje inflado o promocional**
+- ES: crucial, fundamental, vital, clave, sin precedentes, revolucionario, fascinante, enriquecedor, un hito, un antes y un después.
+- EN: pivotal, vibrant, groundbreaking, transformative, unprecedented, a testament to, a rich tapestry, game-changer.
+- Regla: el adjetivo fuerte solo sobrevive si el texto demuestra por qué lo merece.
 
-Tras la pasada, entrega opcionalmente una tabla breve con los 3-5 cambios principales y su motivo.
+**Pasada 3. Vocabulario típico de IA**
+- ES: "En el mundo actual", "En la era digital", "en un mundo cada vez más…", "Cabe destacar que", "Es importante mencionar/señalar que", "juega un papel crucial", "un aspecto fundamental", "abordar", "potenciar", "fomentar", "ámbito" en exceso, "sin lugar a dudas".
+- EN: delve into, leverage, navigate the complexities, in the realm of, underscore, foster, multifaceted, intricate, holistic, robust, seamless, it is important to note that.
+
+**Pasada 4. Patrones gramaticales**
+- Rodeos para evitar el verbo "ser" ("se erige como", "se posiciona como", "representa" / "serves as", "stands as") cuando bastaría "es" / "is".
+- Sinónimos que rotan sin motivo para el mismo concepto. En lo académico se mantiene el término definido.
+- Nominalizaciones encadenadas ("la realización de la implementación de…") y exceso de voz pasiva.
+- "No es solo X, sino también Y" / "It's not just X, it's Y" repetido.
+- Tríadas automáticas ("eficiente, eficaz y sostenible").
+
+**Pasada 5. Ritmo y puntuación**
+- Ritmo de metrónomo: oraciones y párrafos de la misma longitud. Alterna frases cortas y largas.
+- Exceso de rayas o guiones largos (—) usados como comodín. En español, prefiere comas, paréntesis o dos puntos.
+- Dos puntos dramáticos en serie ("La respuesta: sencilla.").
+- Emojis, signos de exclamación y preguntas retóricas encadenadas: fuera del texto académico.
+- Puntuación y tildes según la RAE.
+
+**Pasada 6. Relleno, cautela vacía y artefactos de chatbot**
+- Relleno: "Es importante tener en cuenta que", "Vale la pena mencionar", "En este sentido" repetido.
+- Cautela acumulada ("podría quizás sugerir posiblemente…"). Usa una sola marca de cautela y solo si la evidencia lo exige.
+- Atribuciones vagas: "diversos estudios", "los expertos señalan", "se ha demostrado" / "studies show", "experts agree". Sustitúyelas por la fuente concreta o marca [CITA NECESARIA].
+- Artefactos de chatbot: "¡Claro!", "Espero que esto ayude", "Como modelo de lenguaje…", "Aquí tienes…", notas sobre la fecha de corte de conocimiento.
+
+**Pasada 7. Conectores repetidos**
+- ES: Además, Asimismo, Por otro lado, Cabe resaltar, En definitiva, Por ende, al inicio de cada párrafo.
+- EN: Moreover, Furthermore, Additionally, In addition, Ultimately, en cadena.
+- Regla: deja un conector solo si expresa una relación lógica real (causa, contraste, consecuencia). Muchas veces la mejor transición es ninguna: el orden de las ideas ya basta.
+
+**Pasada 8. Textura humana (en registro académico)**
+- Postura del autor: qué sostiene, qué discute y con quién ("sostengo que", "a diferencia de X, aquí…" / "I argue", "contrary to…").
+- Concreción: un dato, un caso, un ejemplo de la disciplina en lugar de la generalidad.
+- Matiz honesto: dónde el argumento es más débil y qué queda abierto.
+- Voz calibrada del autor (sección 7.1) si hay muestras.
+- Límite: nada de anécdotas inventadas, opiniones atribuidas al autor sin que las haya expresado ni coloquialismos impropios del género.
+
+**Cierre de la revisión:** lee el texto como lo leería un evaluador exigente. Si una frase podría aparecer igual en cualquier trabajo sobre cualquier tema, reescríbela o elimínala.
+
+Tras las pasadas, entrega opcionalmente una tabla breve con los 3-5 cambios principales y su motivo.
+
+Método adaptado de [humanize-writing](https://github.com/jpeggdev/humanize-writing) (licencia MIT) y de la guía "Signs of AI writing" de Wikipedia.
 
 ### 7.4 Reglas al humanizar un texto del usuario
 
