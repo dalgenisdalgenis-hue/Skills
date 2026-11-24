@@ -17,6 +17,7 @@ Skill para Claude que acompaña todo el ciclo de un trabajo académico en **espa
 | Revisión por pares | Comité simulado con abogado del diablo |
 | Citas | Verificar existencia y correspondencia; APA, MLA, Chicago, IEEE, Vancouver |
 | Flujo completo | 10 etapas con confirmación del autor en cada una |
+| **Metodología** | Enfoques o rutas (cuanti, cuali, mixta), planteamiento, preguntas, objetivos, alcance, hipótesis, variables y su operacionalización, diseños, población y muestra (con cálculo), instrumentos, análisis estadístico y cualitativo, y matriz de consistencia |
 
 ## Humanización
 
@@ -46,6 +47,10 @@ Pídelo con naturalidad:
 - "Humaniza este párrafo, aquí tienes dos textos míos para que copies mi estilo"
 - "Revisa mi artículo como si fueras evaluador de una revista"
 - "Verifica las citas de este capítulo"
+
+## Fuentes de la sección de metodología
+
+Síntesis original basada en Hernández-Sampieri y Mendoza (2018), *Metodología de la investigación: Las rutas cuantitativa, cualitativa y mixta*, y en Hernández Sampieri, Fernández y Baptista (1991). No reproduce el texto de las obras.
 
 ## Integridad académica
 

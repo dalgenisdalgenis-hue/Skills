@@ -30,6 +30,7 @@ Al iniciar, identifica el modo por la intención del usuario. Si no está claro,
 | **G. Revisión por pares** | "revisa mi artículo", "qué diría un evaluador" |
 | **H. Citas** | verificar, formatear o convertir referencias |
 | **I. Flujo completo** | del tema a la entrega, por etapas |
+| **J. Metodología** | enfoque, planteamiento, preguntas, objetivos, alcance, hipótesis, variables, diseño, población y muestra, instrumentos, análisis, matriz de consistencia |
 
 ## 2. Modo A — Investigación
 
@@ -155,7 +156,7 @@ Método adaptado de [humanize-writing](https://github.com/jpeggdev/humanize-writ
 
 Evalúa como un comité con varios roles y entrega un informe por rol:
 1. **Editor:** pertinencia, originalidad y ajuste a la revista o al programa.
-2. **Metodológico:** diseño, muestra, validez, análisis y reproducibilidad.
+2. **Metodológico:** diseño, muestra, validez, análisis y reproducibilidad (aplica la lista de verificación J.14).
 3. **Especialista del tema:** dominio de la literatura y aportación al campo.
 4. **Estilo y estructura:** claridad, coherencia y calidad de escritura (aplica la sección 7.3).
 5. **Abogado del diablo:** la objeción más fuerte posible contra la tesis central.
@@ -179,7 +180,7 @@ Avanza etapa por etapa y **pide confirmación al terminar cada una**:
 
 1. Delimitación del tema y de la pregunta (modo C si hace falta)
 2. Búsqueda y síntesis de fuentes (A / B)
-3. Esquema (D) → confirmación
+3. Diseño metodológico (J) y esquema (D) → confirmación
 4. Redacción por secciones (E)
 5. Humanización y calibración de estilo (F)
 6. Verificación de citas (H) — **control obligatorio**
@@ -190,14 +191,353 @@ Avanza etapa por etapa y **pide confirmación al terminar cada una**:
 
 Al final, entrega un resumen del proceso: decisiones tomadas por el autor, fuentes verificadas y elementos pendientes.
 
-## 11. Integridad académica
+## 11. Modo J — Metodología de la investigación
+
+Úsalo cuando el usuario necesite plantear o revisar el diseño de su estudio: enfoque, problema, preguntas, objetivos, justificación, alcance, hipótesis, variables, diseño, población y muestra, instrumentos y análisis. También lo usa el revisor metodológico del modo G.
+
+Principio rector: **coherencia**. El problema define las preguntas; las preguntas, el alcance; el alcance, las hipótesis y el diseño; y el diseño, la muestra, los instrumentos y el análisis. Si un eslabón no encaja con el anterior, señálalo.
+
+Trabaja de forma guiada: avanza bloque por bloque, propone redacciones y pide confirmación. No inventes datos del contexto del usuario (población real, tamaño, institución); márcalos como [DATO DEL AUTOR].
+
+### J.1 Ruta del proceso
+
+1. Idea → 2. Planteamiento del problema → 3. Marco teórico → 4. Alcance → 5. Hipótesis y variables → 6. Diseño → 7. Población y muestra → 8. Recolección de datos → 9. Análisis → 10. Reporte.
+
+Hernández-Sampieri y Mendoza (2018) hablan de tres **rutas**: cuantitativa, cualitativa y mixta. La ruta cuantitativa es secuencial (no se saltan pasos). La cualitativa es circular: la muestra, la recolección y el análisis ocurren casi en paralelo, y el planteamiento se ajusta mientras se recogen datos. Ninguna ruta es superior; son alternativas que pueden complementarse.
+
+### J.2 Enfoque o ruta
+
+| | Cuantitativo | Cualitativo | Mixto |
+|---|---|---|---|
+| Propósito | Medir, comparar, probar hipótesis, generalizar | Comprender significados, experiencias y contextos | Integrar ambos para una visión más completa |
+| Lógica | Deductiva | Inductiva | Ambas |
+| Datos | Numéricos, instrumentos estandarizados | Palabras, imágenes, observación, documentos | Ambos tipos |
+| Planteamiento | Delimitado desde el inicio, con variables medibles | Abierto; se enfoca durante el proceso | Combina ambos |
+| Hipótesis | Se formulan antes y se ponen a prueba | Emergentes: se generan y afinan durante el estudio | Según la fase |
+| Muestra | Probabilística cuando se quiere generalizar | Intencional; tamaño por saturación | Combinada según la fase |
+| Análisis | Estadístico | Codificación, categorías, temas | Integración de resultados |
+| Preguntas típicas | ¿Cuánto? ¿Qué relación hay? ¿Qué efecto tiene? | ¿Cómo? ¿Por qué? ¿Qué significado tiene? | Ambos tipos |
+
+Regla de decisión: el enfoque lo determina la pregunta, no la preferencia del investigador.
+
+### J.3 Planteamiento del problema
+
+**Descripción del problema.** De lo general a lo específico: contexto, situación concreta, evidencia de que el problema existe (datos con cita) y vacío de conocimiento.
+
+**Preguntas de investigación.**
+- Claras, delimitadas (qué, quiénes, dónde, cuándo) y respondibles con datos.
+- Una pregunta general y 2-5 específicas.
+- Las cuantitativas incluyen las variables y su relación; las cualitativas, el fenómeno y los participantes.
+- Evita preguntas de sí o no, preguntas que ya tienen respuesta conocida y preguntas valorativas ("¿es bueno…?").
+- Ejemplo cuantitativo: "¿Qué relación existe entre el uso de redes sociales y el rendimiento académico en estudiantes de primer año de la Universidad X en 2026?"
+- Ejemplo cualitativo: "¿Cómo viven los docentes rurales de la provincia Y la incorporación de herramientas digitales en sus clases?"
+
+**Objetivos.**
+- Un objetivo general y 2-5 específicos, coherentes uno a uno con las preguntas.
+- Empiezan con un verbo en infinitivo que se pueda verificar y que corresponda al alcance:
+  - Exploratorio: explorar, identificar, indagar.
+  - Descriptivo: describir, caracterizar, determinar el nivel de, medir.
+  - Correlacional: relacionar, asociar, establecer la relación entre.
+  - Explicativo: explicar, determinar el efecto de, analizar la influencia de.
+  - Cualitativo: comprender, interpretar, analizar las experiencias de.
+- Evita "conocer", "entender" y "estudiar", porque no se pueden verificar, y no confundas objetivos con actividades ("aplicar una encuesta" no es un objetivo).
+
+**Justificación.** Argumenta con estos criterios (no es necesario cumplirlos todos):
+- **Conveniencia:** para qué sirve.
+- **Relevancia social:** a quién beneficia y cómo.
+- **Implicaciones prácticas:** qué problema concreto ayuda a resolver.
+- **Valor teórico:** qué vacío llena o qué teoría apoya, discute o amplía.
+- **Utilidad metodológica:** si aporta un instrumento, una definición o una forma de estudiar mejor el fenómeno.
+
+**Deficiencias en el conocimiento del problema.** Qué falta saber según la literatura (vacíos, contradicciones, poblaciones o contextos no estudiados) y qué aportará el estudio.
+
+**Viabilidad.** Tiempo, dinero, personal, acceso a los participantes y a los datos, y permisos.
+
+**Delimitación y limitaciones.** Delimitación: alcance temático, espacial y temporal. Limitaciones: lo que podría afectar los resultados y cómo se mitiga.
+
+**Consecuencias y ética.** Posibles efectos del estudio sobre los participantes y la comunidad (ver J.11).
+
+**Planteamiento cualitativo.** Lleva los mismos elementos (objetivos, preguntas, justificación con los mismos cinco criterios, viabilidad y deficiencias en el conocimiento), pero con preguntas y objetivos más generales y abiertos. Además:
+- **Fenómeno central:** qué se quiere comprender.
+- **Participantes o casos:** quiénes, o qué eventos y documentos.
+- **Ambiente o contexto:** dónde y cuándo se hará el estudio.
+- Una forma práctica de redactarlo es combinar un verbo (comprender, explorar, describir), el fenómeno, los participantes y el ambiente. Ejemplo: "Comprender cómo viven la jubilación los docentes de escuelas públicas de Santiago en 2026".
+- El planteamiento puede reformularse después de la inmersión inicial en el campo.
+
+### J.4 Marco teórico
+
+- **Funciones:** evita repetir errores, orienta el diseño, ayuda a formular hipótesis y sirve de referencia para interpretar resultados.
+- **Fuentes:** primarias (artículos y libros con la investigación original), secundarias (reseñas, compilaciones) y terciarias (directorios, catálogos y bases de datos que llevan a las anteriores). La base debe ser de fuentes primarias.
+- **Estrategia según lo que exista en la literatura:**
+  - Una teoría desarrollada que explica el problema → se adopta como eje.
+  - Varias teorías → se elige una o se integran las partes útiles, explicando por qué.
+  - Solo hallazgos empíricos sueltos → se organizan por variables o temas.
+  - Muy poca literatura → se justifica un estudio exploratorio.
+- **Criterios para evaluar una teoría:** capacidad para describir, explicar y predecir; consistencia lógica; amplitud de perspectiva; fecundidad (genera nuevas preguntas) y parsimonia (sencillez).
+- **Estructura sugerida:** antecedentes (internacionales, nacionales, locales), bases teóricas organizadas por variables o categorías, y definición de términos.
+- Redáctalo como un argumento que conduce a la pregunta, no como una lista de resúmenes de autores.
+
+### J.5 Alcance
+
+| Alcance | Cuándo | Qué hace | Hipótesis |
+|---|---|---|---|
+| **Exploratorio** | Tema nuevo o poco estudiado | Familiariza con el fenómeno e identifica variables y conceptos | Normalmente no lleva |
+| **Descriptivo** | Se sabe qué medir pero no cómo se presenta | Mide y caracteriza variables, grupos o situaciones | Opcional (pronóstico de un valor) |
+| **Correlacional** | Interesa saber si las variables se asocian | Mide el grado de relación entre dos o más variables | Correlacionales o de diferencia de grupos |
+| **Explicativo** | Se busca la causa | Explica por qué ocurre un fenómeno y en qué condiciones | Causales |
+
+- Ningún alcance es superior a otro: se elige según lo que ya se sabe del tema y el objetivo.
+- Un mismo estudio puede empezar exploratorio y terminar descriptivo-correlacional.
+- **Error frecuente:** decir "correlacional" y después concluir causalidad. Una correlación no demuestra causa.
+
+### J.6 Hipótesis
+
+- **Qué son:** respuestas tentativas a la pregunta, formuladas como afirmaciones que se pueden poner a prueba.
+- **Requisitos:** se refieren a una situación real, sus variables son precisas y observables, la relación propuesta es clara y verosímil, y existen técnicas para probarla.
+- **Cuándo no se formulan:** en estudios exploratorios y en muchos descriptivos cuantitativos.
+- **En la ruta cualitativa** no se plantean hipótesis para probarlas. Se generan **hipótesis de trabajo** que se afinan con los datos, o las hipótesis son uno de los resultados del estudio.
+- **Tipos de hipótesis de investigación (Hi):**
+  - Descriptiva: pronostica un valor ("el nivel de estrés será alto").
+  - Correlacional: afirma una relación; si indica el sentido (positiva o negativa) es direccional.
+  - De diferencia de grupos: afirma que hay diferencia o a favor de qué grupo es.
+  - Causal: establece causa y efecto. Puede ser bivariada o multivariada, e incluir variables intervinientes.
+- **Hipótesis nula (H₀):** niega la relación o la diferencia. **Alternativa (Ha):** otras posibilidades distintas de Hi y H₀.
+- **Hipótesis estadísticas:** traducen las anteriores a parámetros (H₀: ρ = 0; H₀: μ₁ = μ₂).
+- **Redacción correcta de resultados:** se dice "se rechaza H₀" o "no se rechaza H₀"; nunca "se acepta" ni "se prueba" la hipótesis.
+
+### J.7 Variables
+
+**Variable:** propiedad que puede variar y cuya variación se puede medir u observar.
+
+| Tipo | Función | Ejemplo |
+|---|---|---|
+| Independiente (VI) | Supuesta causa o factor que se manipula o compara | Método de enseñanza |
+| Dependiente (VD) | Efecto o resultado que se mide | Rendimiento académico |
+| Interviniente o mediadora | Explica cómo la VI influye en la VD | Motivación |
+| Moderadora | Cambia la fuerza o el sentido de la relación | Edad |
+| De control o extraña | Se mantiene constante o se controla para que no contamine | Nivel socioeconómico |
+
+En estudios descriptivos o correlacionales puede hablarse simplemente de "variable 1" y "variable 2". En los cualitativos se habla de **categorías** y **subcategorías**, no de variables.
+
+**Definición conceptual:** qué es la variable según la teoría, con su cita.
+**Definición operacional:** cómo se medirá en este estudio (instrumento, indicadores, escala y puntuación).
+
+**Matriz de operacionalización** (entrégala como tabla):
+
+| Variable | Definición conceptual | Definición operacional | Dimensiones | Indicadores | Ítems | Escala / nivel de medición |
+|---|---|---|---|---|---|---|
+
+**Niveles de medición:**
+- **Nominal:** categorías sin orden (sexo, carrera).
+- **Ordinal:** categorías con orden (nivel educativo, escala Likert por ítem).
+- **De intervalo:** distancias iguales sin cero absoluto (temperatura en °C).
+- **De razón:** con cero absoluto (edad, ingresos, número de errores).
+
+El nivel de medición condiciona el análisis estadístico (J.10).
+
+### J.8 Diseño
+
+**Experimentales** (se manipula la VI):
+- **Preexperimentos:** un solo grupo, control mínimo (por ejemplo, preprueba-posprueba con un grupo). Sirven como aproximación exploratoria.
+- **Experimentos verdaderos:** asignación al azar, grupo de control, manipulación de la VI. Permiten inferir causalidad.
+- **Cuasiexperimentos:** grupos ya formados (aulas, turnos), sin asignación al azar. Hay que demostrar que los grupos eran equivalentes al inicio.
+- **Validez interna** (que el efecto se deba a la VI). Amenazas: historia, maduración, inestabilidad, efecto de la prueba previa, cambios en el instrumento, regresión a la media, selección, pérdida de participantes (mortalidad) e interacción entre selección y maduración.
+- **Validez externa:** posibilidad de generalizar los resultados a otras personas, lugares y situaciones.
+
+**No experimentales** (se observa sin manipular):
+- **Transversales o transeccionales:** una sola medición. Pueden ser exploratorios, descriptivos o correlacionales-causales.
+- **Longitudinales:** varias mediciones en el tiempo:
+  - De tendencia: misma población, personas distintas.
+  - De cohorte: un subgrupo definido por un hecho común.
+  - Panel: las mismas personas.
+
+**Cualitativos.** El diseño es un abordaje general que se ajusta durante el trabajo de campo, y las fronteras entre tipos no son rígidas:
+- **Teoría fundamentada:** la teoría surge de los datos y no de estudios previos. Se analiza con codificación abierta → axial → selectiva → teoría. Puede ser sistemática (con categorías y procedimientos predefinidos) o emergente (más flexible).
+- **Etnográfico:** ideas, creencias, significados y prácticas de un grupo o cultura. El investigador suele ser observador participante. Puede ser realista, crítico, clásico, microetnográfico o un estudio de caso.
+- **Narrativo:** historias de vida y la sucesión de hechos. Puede abarcar toda una vida, una época o varios episodios. Hay tres tipos: de tópicos (un tema o suceso), biográfico (sin testimonio directo del protagonista) y autobiográfico (con testimonios en vivo).
+- **Fenomenológico:** explorar, describir y comprender cómo viven las personas un fenómeno, y encontrar lo común y lo distinto de esas experiencias.
+- **Investigación-acción:** resolver un problema y mejorar una práctica concreta. Puede ser práctica o participativa (la comunidad interviene en todo el proceso). Se trabaja en ciclos: detectar el problema → planificar → actuar → evaluar → reflexionar y empezar un nuevo ciclo.
+- **Estudio de caso:** análisis a fondo de una o pocas unidades. Puede ser cualitativo, cuantitativo o mixto.
+
+**Mixtos.** Para elegir el diseño se considera:
+- La prioridad de cada ruta: igual (CUAN = CUAL) o distinta (en la notación de Hernández-Sampieri y Mendoza, la ruta dominante se escribe en mayúsculas: CUAN → cual).
+- La secuencia: secuencial o concurrente.
+- El propósito de la integración y la etapa en que se integran los datos.
+
+Diseños principales:
+- **Exploratorio secuencial (DEXPLOS):** primero cualitativo, luego cuantitativo. Sirve para crear un instrumento, probar una teoría que surgió en la fase cualitativa o medir qué tan extendido está un fenómeno.
+- **Explicativo secuencial (DEXPLIS):** primero cuantitativo, luego cualitativo para explicar o profundizar los resultados (por ejemplo, entrevistar a los casos extremos).
+- **Transformativo secuencial (DITRAS):** dos fases guiadas por una perspectiva teórica o de cambio social (por ejemplo, de género o de equidad).
+- **Triangulación concurrente (DITRIAC):** ambas rutas al mismo tiempo, y se comparan para confirmar o contrastar los resultados.
+- **Anidado o incrustado concurrente de modelo dominante (DIAC):** una ruta principal que lleva dentro una secundaria.
+- **Anidado concurrente de varios niveles (DIACNIV):** cada ruta se aplica a un nivel distinto (por ejemplo, alumnos, docentes, escuelas).
+- **Diseños transformativos concurrentes e integradores o complejos:** combinan varios de los anteriores.
+
+### J.9 Población y muestra
+
+1. **Unidad de análisis:** quiénes o qué se estudia (personas, escuelas, documentos, publicaciones).
+2. **Población:** conjunto de todos los casos que cumplen las características, delimitado por contenido, lugar y tiempo. Incluye criterios de inclusión y de exclusión.
+3. **Marco muestral:** lista o referencia de la que se seleccionan los casos.
+4. **Tipo de muestra:**
+
+| Probabilística (permite generalizar) | No probabilística (no permite generalizar a la población) |
+|---|---|
+| Aleatoria simple | Por conveniencia |
+| Sistemática (cada k-ésimo caso) | Por cuotas |
+| Estratificada (por subgrupos, más precisa) | De voluntarios |
+| Por conglomerados (primero se eligen grupos y luego casos) | De expertos |
+| | Casos tipo e intencional |
+| | Bola de nieve (poblaciones difíciles de acceder) |
+
+5. **Tamaño de muestra (cuantitativo):**
+   - **Para estimar una proporción:** n₀ = Z² · p · (1 − p) / e². Con 95 % de confianza (Z = 1,96), p = 0,5 y e = 0,05 → n₀ ≈ 384.
+   - **Corrección para población finita:** n = n₀ / (1 + (n₀ − 1) / N). Ejemplo: con N = 1000 → n ≈ 278.
+   - **Para comparar dos medias:** n por grupo = 2 · (Z₁₋α/₂ + Z₁₋β)² · σ² / d². Con α = 0,05 y potencia 80 % → (1,96 + 0,84)².
+   - Recomienda calcular la potencia con software (por ejemplo, G*Power) y prever pérdidas (aumentar del 10 % al 20 %).
+   - Si la población es pequeña y accesible, puede estudiarse completa (censo).
+   - **Mínimos orientativos** (solo como referencia, no sustituyen el cálculo):
+     - Unos 30 casos por grupo en estudios descriptivos o correlacionales.
+     - Unos 15 casos por grupo en experimentos.
+     - Para detectar un efecto mediano con α = .05 a dos colas y potencia de .80: unos 82 casos en una correlación y unos 64 por grupo al comparar dos grupos.
+     - Fuentes: Mertens (2015) y Onwuegbuzie y Collins (2007), citados por Hernández-Sampieri y Mendoza (2018).
+6. **Muestra cualitativa** (dirigida por propósito, no busca representar a una población):
+   - **Proceso:** primero se identifican ambientes, luego grupos y luego individuos o casos. Pueden añadirse unidades de otro tipo durante el estudio.
+   - **Tipos:** voluntarios, expertos, casos tipo, cuotas, máxima variación (diversa), homogénea, en cadena o bola de nieve, casos extremos, por oportunidad, teórica, confirmativa, casos importantes o críticos, y por conveniencia. Pueden combinarse.
+   - **Factores que definen el tamaño:** la capacidad real de recolectar y analizar datos, el entendimiento del fenómeno, la naturaleza del fenómeno y la **saturación de categorías** (se detiene cuando los nuevos casos ya no aportan información nueva).
+   - **Referencias orientativas,** no reglas:
+     - Fenomenológico: unos 10 casos.
+     - Teoría fundamentada: de 20 a 30.
+     - Etnográfico básico: unos 12 participantes homogéneos.
+     - Etnografía cultural: de 30 a 50 miembros del grupo.
+     - Estudio de casos: de 6 a 10, o de 3 a 5 si son en profundidad.
+     - Historia de vida familiar: toda la familia.
+   - Justifica siempre el tamaño con estos factores y con la saturación, no solo con la cifra.
+
+### J.10 Recolección de datos
+
+**Instrumentos:**
+- **Cuantitativos:** cuestionarios, escalas de actitud (Likert, diferencial semántico, Guttman), pruebas estandarizadas, observación sistemática, análisis de contenido cuantitativo y datos secundarios.
+- **Cualitativos:** entrevistas en profundidad o semiestructuradas, grupos focales, observación participante, documentos y diarios.
+
+**Requisitos de un instrumento cuantitativo:**
+- **Confiabilidad** (resultados consistentes):
+  - Test-retest.
+  - Formas paralelas.
+  - Mitades partidas.
+  - Consistencia interna: alfa de Cronbach u omega de McDonald; KR-20 para ítems dicotómicos. Un valor de .70 o más suele considerarse aceptable.
+- **Validez** (mide lo que dice medir):
+  - De contenido: juicio de expertos, por ejemplo con la V de Aiken.
+  - De criterio: concurrente o predictiva.
+  - De constructo: análisis factorial exploratorio o confirmatorio.
+- **Prueba piloto** antes de la aplicación definitiva.
+
+**Construcción del instrumento:** de la matriz de operacionalización a los ítems, con un formato de respuesta acorde al nivel de medición, instrucciones claras, prueba piloto, ajustes y plan de codificación.
+
+**Rigor cualitativo:**
+- **Credibilidad:** triangulación y validación con los participantes.
+- **Transferibilidad:** descripción densa del contexto.
+- **Dependencia:** pistas de auditoría.
+- **Confirmabilidad:** reflexividad del investigador.
+
+### J.11 Ética
+
+Consentimiento informado (propósito, procedimiento, riesgos, carácter voluntario y derecho a retirarse); asentimiento y consentimiento de los padres en el caso de menores; confidencialidad y anonimización; almacenamiento y destrucción de datos; protección de poblaciones vulnerables; conflictos de interés y financiación; y aprobación de un comité de ética o justificación de la exención.
+
+### J.12 Análisis de datos
+
+**Cuantitativo, paso a paso:**
+1. Depuración: errores, valores perdidos y valores atípicos.
+2. Descriptivos por variable: frecuencias y porcentajes (nominales y ordinales); media, mediana, moda, desviación estándar, rango, asimetría y curtosis (intervalo y razón).
+3. Comprobación de supuestos: normalidad (Shapiro-Wilk o Kolmogorov-Smirnov, además de gráficos), homogeneidad de varianzas (Levene), linealidad, independencia y multicolinealidad (VIF).
+4. Prueba inferencial según el objetivo y los datos (tabla siguiente).
+5. Reporte completo: estadístico, grados de libertad, valor p, intervalo de confianza del 95 % y tamaño del efecto.
+
+**Elección de la prueba:**
+
+| Objetivo | Datos | Paramétrica (supuestos cumplidos) | No paramétrica |
+|---|---|---|---|
+| Comparar 2 grupos independientes | VD cuantitativa | t de Student para muestras independientes (o t de Welch) | U de Mann-Whitney |
+| Comparar 2 mediciones del mismo grupo | VD cuantitativa | t para muestras relacionadas | Wilcoxon |
+| Comparar 3 o más grupos independientes | VD cuantitativa | ANOVA de un factor + post hoc (Tukey; Games-Howell si las varianzas son distintas) | Kruskal-Wallis + comparaciones por pares |
+| Comparar 3 o más mediciones del mismo grupo | VD cuantitativa | ANOVA de medidas repetidas | Friedman |
+| Dos o más factores | VD cuantitativa | ANOVA factorial | — |
+| Controlar una covariable | VD cuantitativa | ANCOVA | — |
+| Relacionar 2 variables | Cuantitativas | r de Pearson | rho de Spearman o tau de Kendall (ordinales o sin normalidad) |
+| Asociar 2 variables categóricas | Nominales | — | Chi cuadrado (prueba exacta de Fisher si hay frecuencias esperadas menores que 5); V de Cramer o phi como tamaño del efecto |
+| Predecir una VD cuantitativa | Uno o más predictores | Regresión lineal simple o múltiple | — |
+| Predecir una VD dicotómica (sí/no) | Predictores de cualquier tipo | Regresión logística binaria | — |
+| Reducir ítems a dimensiones / validar un instrumento | Ítems | Análisis factorial exploratorio o confirmatorio | — |
+| Modelos con relaciones entre varias variables | Varias VI y VD | Análisis de rutas, ecuaciones estructurales (SEM), MANOVA | — |
+
+**Tamaño del efecto** (referencias convencionales: pequeño / mediano / grande):
+- d de Cohen: 0,2 / 0,5 / 0,8.
+- r: 0,1 / 0,3 / 0,5.
+- Eta cuadrado parcial: 0,01 / 0,06 / 0,14.
+- f² (regresión): 0,02 / 0,15 / 0,35 (equivalente a R² ≈ 0,02 / 0,13 / 0,26).
+- V de Cramer: depende de los grados de libertad.
+
+Interprétalos siempre en el contexto de la disciplina.
+
+**Errores que debes señalar siempre:**
+- Confundir significación estadística con importancia práctica: un p < .05 no dice cuán grande es el efecto.
+- Concluir causalidad a partir de una correlación o de un diseño no experimental.
+- Hacer muchas comparaciones sin corregirlas (Bonferroni, Holm).
+- Tratar la Likert por ítem como intervalar sin justificarlo. La suma de varios ítems de una escala sí suele analizarse como cuantitativa.
+- Generalizar a la población a partir de una muestra no probabilística.
+- Decir "se acepta H₀" en lugar de "no se rechaza H₀".
+- Errores tipo I (rechazar una H₀ verdadera) y tipo II (no rechazar una H₀ falsa, a menudo por falta de potencia).
+
+**Cualitativo:**
+- Transcripción y familiarización con los datos.
+- Codificación abierta → agrupación en categorías → relaciones entre categorías (axial) → categoría central (selectiva) en teoría fundamentada.
+- O bien análisis temático: familiarizarse con los datos, generar códigos, buscar temas, revisarlos, definirlos y nombrarlos, y redactar el informe.
+- Usa citas textuales de los participantes (anonimizadas) como evidencia, matrices o redes de categorías, y software si está disponible (ATLAS.ti, NVivo, MAXQDA, QDA Miner Lite).
+
+**Mixto:** explica cómo y cuándo se integran los resultados (por ejemplo, con una tabla conjunta que compara los hallazgos cuantitativos y cualitativos de cada tema).
+
+### J.13 Matriz de consistencia
+
+Para tesis y proyectos, entrega una matriz que muestre la coherencia de todo el diseño:
+
+| Problema (pregunta general y específicas) | Objetivos (general y específicos) | Hipótesis (general y específicas) | Variables / categorías | Dimensiones e indicadores | Metodología (enfoque, alcance, diseño, población, muestra, técnicas, instrumentos, análisis) |
+|---|---|---|---|---|---|
+
+Cada pregunta específica debe tener su objetivo específico, su hipótesis específica (si aplica) y un análisis previsto que la responda.
+
+### J.14 Lista de verificación metodológica
+
+- [ ] El enfoque corresponde a la pregunta.
+- [ ] Las preguntas están delimitadas (qué, quiénes, dónde, cuándo) y son respondibles.
+- [ ] Cada objetivo corresponde a una pregunta y su verbo concuerda con el alcance.
+- [ ] La justificación usa al menos dos criterios con argumentos concretos.
+- [ ] El estudio es viable (tiempo, acceso, recursos, permisos).
+- [ ] El alcance declarado coincide con las conclusiones (no hay causalidad en un estudio correlacional).
+- [ ] Las hipótesis son coherentes con el alcance y se pueden probar.
+- [ ] Las variables tienen definición conceptual (con cita) y operacional.
+- [ ] El diseño puede responder las preguntas y se reconocen sus amenazas a la validez.
+- [ ] La población está delimitada y la muestra está justificada (tipo, tamaño, cálculo o saturación).
+- [ ] Los instrumentos tienen evidencias de confiabilidad y validez, o se prevé obtenerlas.
+- [ ] El análisis corresponde al nivel de medición, a las hipótesis y a los supuestos.
+- [ ] Se reportan los tamaños del efecto y los intervalos de confianza.
+- [ ] Hay consideraciones éticas y aprobación de un comité (o justificación de la exención).
+- [ ] Se sigue la guía de reporte que corresponde: CONSORT (ensayos), STROBE (observacionales), PRISMA (revisiones sistemáticas), COREQ o SRQR (cualitativos), GRAMMS (mixtos).
+
+### J.15 Estructura del informe
+
+- **Contexto académico:** portada, resumen, introducción (problema, preguntas, objetivos, justificación, limitaciones), marco teórico, método (enfoque, alcance, diseño, participantes, instrumentos, procedimiento, análisis, ética), resultados, discusión, conclusiones y recomendaciones, referencias y anexos.
+- **Contexto no académico:** resumen ejecutivo, introducción, método breve, resultados, conclusiones y anexos.
+- Adapta siempre la estructura al reglamento de la institución o a las normas de la revista.
+
+Referencias conceptuales: Hernández-Sampieri, R. y Mendoza, C. P. (2018). *Metodología de la investigación: Las rutas cuantitativa, cualitativa y mixta*. McGraw-Hill (referencia principal); y Hernández Sampieri, R., Fernández Collado, C. y Baptista Lucio, P. (1991). *Metodología de la investigación*. McGraw-Hill. El contenido de esta sección es una síntesis original y no reproduce el texto de las obras.
+
+## 12. Integridad académica
 
 - La skill ayuda a pensar, investigar y escribir mejor; no a ocultar el uso de IA ni a fabricar resultados.
 - No inventes datos, resultados de experimentos, entrevistas ni fuentes.
 - Recuerda una sola vez, sin sermonear, que el usuario debe revisar las normas de su institución o revista sobre el uso de IA y comprender y poder defender todo lo que entrega.
 - Si se pide, redacta una **declaración de uso de IA** honesta, en español o en inglés, que indique en qué tareas se usó.
 
-## 12. Formato de entrega
+## 13. Formato de entrega
 
 - Textos largos (más de ~1.500 palabras): como documento, no solo en el chat.
 - Marcadores visibles: [CITA NECESARIA], [VERIFICAR], [DATO DEL AUTOR].
