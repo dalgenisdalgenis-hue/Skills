@@ -69,6 +69,55 @@ No escribas por el usuario: haz preguntas que lo lleven a precisar su tema, su p
 - Mantén coherencia terminológica: define cada término la primera vez y no lo cambies por sinónimos.
 - Al terminar cada sección, aplica automáticamente el **Control de calidad de escritura** (sección 7.3).
 
+### E.1 Discusión y conclusiones
+
+Sigue la estructura que pida la institución o la revista. En los artículos IMRyD, las conclusiones suelen ir al final de la discusión; en las tesis, suelen ser un capítulo aparte.
+
+**Discusión**
+1. **Apertura:** el hallazgo principal en una o dos oraciones, como respuesta al objetivo general. No repitas las cifras de los resultados.
+2. **Interpretación de cada hallazgo** (en el orden de los objetivos o por importancia):
+   - Qué significa.
+   - Con qué estudios coincide, citándolos.
+   - En qué difiere y por qué podría ser: el contexto, la muestra, el instrumento o el diseño. Distingue lo que está respaldado de lo que es una conjetura.
+   - Los hallazgos inesperados, con su posible explicación.
+3. **Aportes:** qué añade el estudio en lo teórico, lo práctico o lo metodológico.
+4. **Limitaciones y fortalezas:** cuáles son y cómo afectan la interpretación y la posibilidad de generalizar o transferir los resultados.
+5. **Implicaciones:** para la teoría, la práctica o las políticas.
+
+Reglas:
+- El diálogo es con la literatura del marco teórico; no introduzcas datos nuevos.
+- Usa un lenguaje acorde al alcance (J.5): en un estudio correlacional, "se asocia con", no "causa".
+- La cautela debe corresponder a la solidez de la evidencia.
+
+**Conclusiones**
+1. **Una conclusión por objetivo o pregunta específica,** en el mismo orden. Cada una incluye:
+   - La respuesta directa.
+   - Su solidez: hallazgo sólido, tendencia o indicio.
+   - El estado de la hipótesis, si la hay: se rechazó H₀ o no se rechazó H₀; o, en un estudio cualitativo, si el supuesto se confirmó, se matizó o se descartó.
+2. **Conclusión general:** la respuesta a la pregunta general.
+3. **Trazabilidad:** cada conclusión se apoya en un resultado concreto (una tabla, una prueba o una categoría). No van datos nuevos y, normalmente, tampoco citas nuevas.
+
+**Recomendaciones**
+- Se derivan de los hallazgos y se dirigen a actores concretos: quién, qué debe hacer y para qué.
+- Van en orden de prioridad y deben ser realizables.
+- Evita las genéricas, como "se recomienda seguir investigando el tema".
+
+**Líneas futuras de investigación:** de 3 a 5 preguntas concretas que surjan de las limitaciones o de los hallazgos inesperados. Por ejemplo, otra población, un diseño más sólido, variables que no se incluyeron o una réplica en otro contexto.
+
+**Cierre:** un párrafo sobrio que sitúe el aporte en el campo, sin frases grandilocuentes (pasadas 1 y 2 de la sección 7.3).
+
+**Comprobación final** (entrégala como tabla):
+
+| Objetivo específico | Resultado que lo responde | Conclusión | Recomendación derivada |
+|---|---|---|---|
+
+**Errores que debes señalar:**
+- Conclusiones que solo resumen los resultados.
+- Objetivos que se quedan sin conclusión, o conclusiones sobre objetivos que no se plantearon.
+- Recomendaciones que no tienen relación con los hallazgos.
+- Afirmar causalidad en un estudio no experimental.
+- Escribir "se demostró" cuando la evidencia es débil.
+
 ## 7. Modo F — Humanización
 
 Humanizar significa escribir como un buen investigador humano: claro, con ritmo, con postura y con la voz del autor. Se trata de calidad, no de ocultar el uso de IA.
@@ -338,7 +387,12 @@ Regla de decisión: el enfoque lo determina la pregunta, no la preferencia del i
 
 ### J.3 Planteamiento del problema
 
-**Descripción del problema.** De lo general a lo específico: contexto, situación concreta, evidencia de que el problema existe (datos con cita) y vacío de conocimiento.
+**Descripción del problema (técnica del embudo).** Va de lo general a lo particular, con evidencia citada en cada nivel:
+- **Macro (internacional o nacional):** magnitud del fenómeno; datos y tendencias de fuentes oficiales u organismos (UNESCO, OMS, CEPAL, ministerios, oficinas de estadística); políticas o normas relacionadas.
+- **Meso (regional, sectorial o institucional):** cómo se presenta el problema en la región, el sector o el tipo de institución, y estudios previos en contextos parecidos.
+- **Micro (local):** la situación concreta donde se hará el estudio, la evidencia preliminar (diagnósticos, registros u observaciones del autor, marcados como [DATO DEL AUTOR]) y las personas afectadas.
+- **Cierre:** el vacío de conocimiento y la pregunta, de modo que quede claro por qué hace falta este estudio.
+- **Proporción:** el nivel macro, breve; el peso del texto, en el nivel micro. No abras con generalidades del tipo "En el mundo actual…" (ver 7.3).
 
 **Preguntas de investigación.**
 - Claras, delimitadas (qué, quiénes, dónde, cuándo) y respondibles con datos.
@@ -350,6 +404,9 @@ Regla de decisión: el enfoque lo determina la pregunta, no la preferencia del i
 
 **Objetivos.**
 - Un objetivo general y 2-5 específicos, coherentes uno a uno con las preguntas.
+- **Fórmula del objetivo general:** verbo + qué (fenómeno o variables) + en quiénes, dónde y cuándo + cómo (enfoque o medio, si aporta) + para qué (finalidad, opcional).
+  - Ejemplo: "Determinar la relación entre el uso de redes sociales y el rendimiento académico en estudiantes de primer año de la Universidad X durante 2026, con el fin de orientar las acciones de tutoría".
+- **Fórmula de los objetivos específicos:** verbo concreto + una sola tarea + un resultado que se pueda verificar. Cada uno aporta una parte del objetivo general, y todos juntos lo cubren.
 - Empiezan con un verbo en infinitivo que se pueda verificar y que corresponda al alcance:
   - Exploratorio: explorar, identificar, indagar.
   - Descriptivo: describir, caracterizar, determinar el nivel de, medir.

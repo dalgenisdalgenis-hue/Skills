@@ -12,7 +12,7 @@ Skill para Claude que acompaña todo el ciclo de un trabajo académico en **espa
 | Revisión de literatura | Narrativa, sistemática (tipo PRISMA) o de alcance |
 | Socrático | Afinar la pregunta o la tesis mediante preguntas |
 | Planificación | Objetivos, hipótesis y esquema (IMRyD, ensayo, tesis) |
-| Redacción | Borradores por secciones con citas marcadas |
+| Redacción | Borradores por secciones con citas marcadas; guía para redactar la discusión, las conclusiones, las recomendaciones y las líneas futuras |
 | **Humanización** | Calibración de tu estilo + control de patrones típicos de IA |
 | Revisión por pares | Comité simulado con abogado del diablo; modos rápida, solo metodología y segunda revisión |
 | Citas, APA 7 e integridad | Verificar las citas, revisar el formato APA 7 regla por regla (con las convenciones en español) y aplicar controles de integridad antes de entregar |
