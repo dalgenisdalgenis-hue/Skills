@@ -333,7 +333,7 @@ En estudios descriptivos o correlacionales puede hablarse simplemente de "variab
 - **De intervalo:** distancias iguales sin cero absoluto (temperatura en °C).
 - **De razón:** con cero absoluto (edad, ingresos, número de errores).
 
-El nivel de medición condiciona el análisis estadístico (J.10).
+El nivel de medición condiciona el análisis estadístico (J.12).
 
 ### J.8 Diseño
 
